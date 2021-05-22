@@ -1,0 +1,22 @@
+#intro{
+    background: rgb(0,0,255);
+background: linear-gradient(0deg, rgba(0,0,255,1) 0%, rgb(0, 255, 255) 100%);
+    border: blue ridge 12px;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    border-radius: 4px;
+}
+
+#img{
+    border-radius: 25px;
+    width: 200px;
+}
+
+body{
+    font-family: 'Source Code Pro', monospace;
+}
+
+h1{
+    text-shadow: rgb(0, 0, 0) 4px 4px;
+}
